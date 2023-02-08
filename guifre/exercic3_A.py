@@ -1,6 +1,5 @@
 import random
-
-
+#Aquesta funcio et fa adivinar un numero
 def numeroSort():
     aleatori = random.randrange(1, 101)
     print("Escriu un numero del 1 al 100:\n")

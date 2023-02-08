@@ -1,4 +1,5 @@
 
+#Aquesta funció et diu quin dels dos nombres que entres és més gran i quin més petit, per si tenies dubtes.
 def mesGran():
     num1 = int(input("Escriu un nombre\n"))
     num2 = int(input("Escriu un altre nombre\n"))

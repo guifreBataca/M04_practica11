@@ -1,4 +1,4 @@
-
+#Aquesta funció et saluda si li escrius un nom adequat.
 def salutacions():
     noms = ["Mar", "Mariona", "Marcel", "Marti", "Guifre"]
     print(noms)
